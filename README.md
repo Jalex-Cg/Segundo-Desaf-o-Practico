@@ -13,3 +13,6 @@ expo install expo-av
 ## Ejercicios. 
 * **Ejercicio-1** [Enlace](https://snack.expo.dev/@jalex-cg/taller2-ejercicio1)
 * **Ejercicio-2** [Enlace](https://snack.expo.dev/@cotaxo/desafio2ejercicio2)
+
+## Documento PDF
+El docuemnto se encuentra en el repositorio (falta agregarlo) [PDF]()
