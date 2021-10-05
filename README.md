@@ -15,4 +15,4 @@ expo install expo-av
 * **Ejercicio-2** [Enlace](https://snack.expo.dev/@cotaxo/desafio2ejercicio2)
 
 ## Documento PDF
-El docuemnto se encuentra en el repositorio (falta agregarlo) [PDF]()
+El documento se encuentra en el repositorio [PDF](https://github.com/Jalex-Cg/Segundo-Desafio-Practico/blob/main/SegundoDesafioPractico_CA180315_CG172415.pdf)
